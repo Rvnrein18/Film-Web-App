@@ -63,6 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-web ini di buat menggunakan laravel tailwind CSS dan api dari TMDB 
+<P>
+    Movie APP / Movie Web ini di buat menggunakan Laravel TailwindCSS dan API dari TMDB
+</P>
 
